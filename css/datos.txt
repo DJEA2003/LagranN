@@ -1,0 +1,15 @@
+estilos de bordes 
+
+solid
+dotted
+double
+dashed
+groove
+ridge
+inset
+outset
+
+agregar un icon
+
+<!--icono para la pestaña de la pagina web-->
+<link rel="shorcut icon" href="" > --- agredarlo dentro de el <head>
